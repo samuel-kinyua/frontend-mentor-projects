@@ -15,12 +15,15 @@ body {
     width:min-content;
     border: 2px solid white;
     font-family: outfit;
+    
 
 }
 img {
     
     border-radius: 25px;
-    width: 500px;
+    width: 500px;;
+
+    display: block;
     
 }
 #big {
@@ -34,4 +37,12 @@ img {
     font-size: 20px;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
+}
+footer {
+    
+    background-color: hsl(0, 0%, 100%);
+    
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding: 50px;
 }
