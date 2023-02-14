@@ -21,15 +21,15 @@ s)
 This project involves creating a simple website that contains the qrcode of frontend mentor created using HTML and CSS.
 
  ### Screenshot
+Screenshot.png
 
-
-![](../images/Screenshot.jpg)
+![](./images/Screenshot.jpg)
 
 
   ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samuel-kinyua/frontend-mentor-projects)
-- Live Site URL: [Add live site URL here](https://samsqrcode.netlify.app)
+- Solution URL: [(https://github.com/samuel-kinyua/frontend-mentor-projects)]
+- Live Site URL: [(https://samsqrcode.netlify.app)]
 
 ## My process
 
